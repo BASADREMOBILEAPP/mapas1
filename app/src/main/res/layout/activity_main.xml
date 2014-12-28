@@ -12,7 +12,7 @@
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hola angel .l.   8====D"
+        android:text="Hola angel"
         android:id="@+id/angel"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
